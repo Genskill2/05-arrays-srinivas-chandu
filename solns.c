@@ -11,7 +11,7 @@ int m=0 ;
   return m;
 }
 
-/min function/
+/* min function*/
 int min(int a[], int n){
 int min = a[0] ;
      for(int i=1 ; i<n ; i++){
